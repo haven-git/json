@@ -1,1 +1,7 @@
-{"posts":[{"id":1,"title":"hello"}],"profile":{"name":"typicode"}}
+{
+    "payeeBankBic": "044525225",
+    "payeeCorrAcc": "30101810400000000225",
+    "payeeInn": "7707083893",
+    "payeeKpp": "222201001",
+    "payeeName": "Общество с ограниченной ответственностью \"Клиент\""
+}
